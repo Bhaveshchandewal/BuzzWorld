@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "844246283433",
+    "firebase_url": "https://buzzworld-app.firebaseio.com",
+    "project_id": "buzzworld-app",
+    "storage_bucket": "buzzworld-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844246283433:android:6acad96ff301b3737865b8",
+        "android_client_info": {
+          "package_name": "com.muhammadali.buddiesgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844246283433-gb214nje0hmft7r1fcj5odpb6816scsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muhammadali.buddiesgram",
+            "certificate_hash": "6e2d39efdb9d9e57a1074dec71f90cf18a7ead4d"
+          }
+        },
+        {
+          "client_id": "844246283433-jhg7g8qlnhq7vd2mlmht4i0joc103duc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmbhWJLGug0T0GCE36LrBCc_dwM8R7PgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844246283433-jhg7g8qlnhq7vd2mlmht4i0joc103duc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
