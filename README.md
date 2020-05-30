@@ -15,3 +15,18 @@ It is a cross platform Instagram like Social Networking app using hybrid app dev
 - Geolocation Tracking
 - Push Notifications
 
+### Setup Flutter Firebase integration
+Check out the documentation to setup Flutter Firebase integration.
+
+For Android
+In '''android/app''' folder add your '''google-service.json'''.
+
+For iOS
+In '''ios/Runner''' folder add your '''GoogleService-Info.plist'''.
+
+Start your Flutter project by running the command:
+'''
+$ flutter run
+'''
+
+
